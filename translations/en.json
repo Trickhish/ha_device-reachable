@@ -1,0 +1,15 @@
+{
+    "config": {
+      "step": {
+        "user": {
+          "title": "Add Computer",
+          "description": "Enter the name and IP address of the computer to monitor.",
+          "data": {
+            "name": "Computer Name",
+            "ip_address": "IP Address"
+          }
+        }
+      }
+    }
+  }
+  
