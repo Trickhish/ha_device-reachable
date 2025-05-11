@@ -1,0 +1,14 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Add Computer",
+        "description": "Enter the computer's IP address to track connectivity.",
+        "data": {
+          "name": "Name",
+          "ip_address": "IP Address"
+        }
+      }
+    }
+  }
+}

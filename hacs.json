@@ -1,0 +1,8 @@
+{
+    "name": "Computer Reachable",
+    "content_in_root": false,
+    "domains": ["computer_reachable"],
+    "country": "Worldwide",
+    "homeassistant": "2022.0.0"
+  }
+  
